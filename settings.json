@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "ManePear_SpearM.aternos.me",
-    "port": 24041,
-    "version": "1.21.1"
+    "ip": "ManePear_macespear.aternos.me:62317",
+    "port": 62317,
+    "version": "26.1.2"
   },
   "position": {
     "enabled": true,
